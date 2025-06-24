@@ -13,7 +13,7 @@ const loading = ref(false)
 const error = ref('')
 
 // Base URL
-const BASE_URL = 'http://localhost:3000/articles'
+const BASE_URL = 'https://gainful-judicious-aftermath.glitch.me/articles'
 
 // Load data from API
 const load = async () => {
