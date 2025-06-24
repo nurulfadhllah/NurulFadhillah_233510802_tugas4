@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Contoh Artikel",
+      "content": "Ini adalah isi dari contoh artikel."
+    },
+    {
+      "id": "86f2",
+      "title": "wefws",
+      "content": "wefwe"
+    },
+    {
+      "id": "890e",
+      "title": "My Diary",
+      "content": "Today i eat papaya"
+    }
+  ]
+}
